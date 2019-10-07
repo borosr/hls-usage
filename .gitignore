@@ -1,0 +1,6 @@
+.idea
+go.sum
+vendor
+*.mp4
+assets/media/*/hls/*.ts
+assets/media/*/hls/*.m3u8
